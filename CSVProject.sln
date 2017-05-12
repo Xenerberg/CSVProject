@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSVProject", "CSVProject\CSVProject.vcxproj", "{FBA89D35-71B2-4192-A5D3-142C12B846B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorter", "Sorter\Sorter.vcxproj", "{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{FBA89D35-71B2-4192-A5D3-142C12B846B2}.Release|x64.Build.0 = Release|x64
 		{FBA89D35-71B2-4192-A5D3-142C12B846B2}.Release|x86.ActiveCfg = Release|Win32
 		{FBA89D35-71B2-4192-A5D3-142C12B846B2}.Release|x86.Build.0 = Release|Win32
+		{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}.Debug|x64.ActiveCfg = Debug|x64
+		{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}.Debug|x64.Build.0 = Debug|x64
+		{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}.Debug|x86.ActiveCfg = Debug|Win32
+		{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}.Debug|x86.Build.0 = Debug|Win32
+		{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}.Release|x64.ActiveCfg = Release|x64
+		{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}.Release|x64.Build.0 = Release|x64
+		{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}.Release|x86.ActiveCfg = Release|Win32
+		{5026AA3A-A27C-4EFF-862F-E6B5F7BF2487}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

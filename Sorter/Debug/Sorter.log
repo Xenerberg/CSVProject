@@ -1,0 +1,15 @@
+﻿  Sorter.cpp
+c:\users\ana\documents\visual studio 2015\projects\csvproject\sorter\funct_sorter.h(14): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ana\documents\visual studio 2015\projects\csvproject\sorter\funct_sorter.h(12): note: while compiling class template member function 'void NM_Utility::Funct_Sorter<double,std::string>::operator ()(std::vector<double,std::allocator<_Ty>> &,std::vector<std::string,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>)'
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\ana\documents\visual studio 2015\projects\csvproject\sorter\sorter.cpp(17): note: see reference to function template instantiation 'void NM_Utility::Funct_Sorter<double,std::string>::operator ()(std::vector<double,std::allocator<_Ty>> &,std::vector<std::string,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\ana\documents\visual studio 2015\projects\csvproject\sorter\sorter.cpp(16): note: see reference to class template instantiation 'NM_Utility::Funct_Sorter<double,std::string>' being compiled
+  Sorter.vcxproj -> C:\Users\Ana\Documents\Visual Studio 2015\Projects\CSVProject\Debug\Sorter.exe
+  Sorter.vcxproj -> C:\Users\Ana\Documents\Visual Studio 2015\Projects\CSVProject\Debug\Sorter.pdb (Full PDB)

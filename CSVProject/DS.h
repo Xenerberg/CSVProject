@@ -1,5 +1,5 @@
-#ifndef CSVPROJECT_DS_H
-#define CSVPROJECT_DS_H
+#ifndef SORTER_DS_H
+#define SORTER_DS_H
 #include <vector>
 using namespace std;
 
