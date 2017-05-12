@@ -17,9 +17,9 @@ int main(int argc, char* argv[])
 	string strin;
 	string strout;
 	std::cout << "Test for CSV file operations\n";
-	if (argc < 3)
+	if (argc != 3)
 	{
-		std::cout << "Number of arguments is not enough. Proceeding with default. \n";
+		std::cout << "Number of arguments is not correct. Proceeding with default. \n";
 		std::cout << "Enter valid input filename with correct path:" << std::endl;		
 		std::cin >> strin;
 		std::cout << "Enter valid output filename with correct path:" << std::endl;
